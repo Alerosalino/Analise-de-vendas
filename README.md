@@ -17,8 +17,8 @@ O objetivo é explorar os dados de vendas da Alura Store e responder a perguntas
 - Python
 - Jupyter Notebook
 - pandas
-- numpy (se utilizado)
-- matplotlib / seaborn (se utilizados para gráficos)
+- numpy
+- matplotlib
 
 ## Estrutura do projeto
 
@@ -51,9 +51,7 @@ O objetivo é explorar os dados de vendas da Alura Store e responder a perguntas
 ---
 
 Projeto desenvolvido para fins de estudo em Data Science com Python.
-excelente, obrigada!
-De nada, Alessandra! 😊 Se quiser, depois posso te ajudar a transformar esses resultados em gráficos bonitos para colocar no notebook.
-​
+
 
 Favicon de cursos.alura.com.br
 Praticando Python para Data Science: Challenge Alura Store: Aula 3 - Atividade 2 Entrega do Challenge | Alura - Cursos online de tecnologia
